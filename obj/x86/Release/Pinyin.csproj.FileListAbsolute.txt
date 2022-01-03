@@ -1,0 +1,17 @@
+D:\Coding\Pinyin\bin\x86\Release\Pinyin.exe
+D:\Coding\Pinyin\bin\x86\Release\Pinyin.pdb
+D:\Coding\Pinyin\obj\x86\Release\Pinyin.csprojAssemblyReference.cache
+D:\Coding\Pinyin\obj\x86\Release\Pinyin.csproj.CoreCompileInputs.cache
+D:\Coding\Pinyin\obj\x86\Release\Pinyin.csproj.CopyComplete
+D:\Coding\Pinyin\obj\x86\Release\Pinyin.exe
+D:\Coding\Pinyin\obj\x86\Release\Pinyin.pdb
+D:\Coding\Pinyin\bin\x86\Release\PinyinC.pdb
+D:\Coding\Pinyin\bin\x86\Release\Xceed.Document.NET.dll
+D:\Coding\Pinyin\bin\x86\Release\Xceed.Words.NET.dll
+D:\Coding\Pinyin\bin\x86\Release\DocumentFormat.OpenXml.dll
+D:\Coding\Pinyin\bin\x86\Release\System.IO.Packaging.dll
+D:\Coding\Pinyin\bin\x86\Release\DocumentFormat.OpenXml.xml
+D:\Coding\Pinyin\bin\x86\Release\System.IO.Packaging.xml
+D:\Coding\Pinyin\bin\x86\Release\Pinyin.exe.config
+D:\Coding\Pinyin\bin\x86\Release\OpenXmlPowerTools.dll
+D:\Coding\Pinyin\bin\x86\Release\System.Management.Automation.dll

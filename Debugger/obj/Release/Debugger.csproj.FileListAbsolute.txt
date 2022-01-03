@@ -1,0 +1,10 @@
+D:\Coding\Pinyin\Debugger\bin\Release\Debugger.exe.config
+D:\Coding\Pinyin\Debugger\bin\Release\Debugger.exe
+D:\Coding\Pinyin\Debugger\bin\Release\Debugger.pdb
+D:\Coding\Pinyin\Debugger\bin\Release\DocumentFormat.OpenXml.dll
+D:\Coding\Pinyin\Debugger\bin\Release\DocumentFormat.OpenXml.xml
+D:\Coding\Pinyin\Debugger\obj\Release\Debugger.csprojAssemblyReference.cache
+D:\Coding\Pinyin\Debugger\obj\Release\Debugger.csproj.CoreCompileInputs.cache
+D:\Coding\Pinyin\Debugger\obj\Release\Debugger.csproj.CopyComplete
+D:\Coding\Pinyin\Debugger\obj\Release\Debugger.exe
+D:\Coding\Pinyin\Debugger\obj\Release\Debugger.pdb

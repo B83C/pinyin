@@ -1,0 +1,14 @@
+D:\Coding\Pinyin\bin\x86\Release\Temp-Util.exe.config
+D:\Coding\Pinyin\bin\x86\Release\Temp-Util.exe
+D:\Coding\Pinyin\bin\x86\Release\Temp-Util.pdb
+D:\Coding\Pinyin\Temp-Util\obj\Release\Temp-Util.csprojAssemblyReference.cache
+D:\Coding\Pinyin\Temp-Util\obj\Release\Temp_Util.Form1.resources
+D:\Coding\Pinyin\Temp-Util\obj\Release\Temp_Util.Properties.Resources.resources
+D:\Coding\Pinyin\Temp-Util\obj\Release\Temp-Util.csproj.GenerateResource.cache
+D:\Coding\Pinyin\Temp-Util\obj\Release\Temp-Util.csproj.CoreCompileInputs.cache
+D:\Coding\Pinyin\Temp-Util\obj\Release\Temp-Util.exe
+D:\Coding\Pinyin\Temp-Util\obj\Release\Temp-Util.pdb
+D:\Coding\Pinyin\Temp-Util\obj\Release\Temp-Util.csproj.CopyComplete
+D:\Coding\Pinyin\bin\Release\Temp-Util.exe.config
+D:\Coding\Pinyin\bin\Release\Temp-Util.exe
+D:\Coding\Pinyin\bin\Release\Temp-Util.pdb

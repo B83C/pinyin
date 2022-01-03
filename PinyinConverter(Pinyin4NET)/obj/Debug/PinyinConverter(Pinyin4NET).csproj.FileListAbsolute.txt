@@ -1,0 +1,11 @@
+D:/Coding/Pinyin/PinyinConverter(Pinyin4NET)/bin/Debug/PinyinC.dll
+D:/Coding/Pinyin/PinyinConverter(Pinyin4NET)/bin/Debug/PinyinC.pdb
+D:/Coding/Pinyin/PinyinConverter(Pinyin4NET)/obj/Debug/PinyinC.dll
+D:/Coding/Pinyin/PinyinConverter(Pinyin4NET)/obj/Debug/PinyinC.pdb
+D:/Coding/Pinyin/PinyinConverter(Pinyin4NET)/obj/Debug/PinyinConverter(Pinyin4NET).csproj.CoreCompileInputs.cache
+D:/Coding/Pinyin/PinyinConverter(Pinyin4NET)/bin/Debug/Microsoft.IO.RecyclableMemoryStream.dll
+D:/Coding/Pinyin/PinyinConverter(Pinyin4NET)/bin/Debug/Microsoft.IO.RecyclableMemoryStream.xml
+D:/Coding/Pinyin/PinyinConverter(Pinyin4NET)/obj/Debug/PinyinConverter(Pinyin4NET).csproj.CopyComplete
+D:/Coding/Pinyin/PinyinConverter(Pinyin4NET)/obj/Debug/PinyinConverter(Pinyin4NET).csprojAssemblyReference.cache
+/home/b83c/Pinyin/PinyinConverter(Pinyin4NET)/obj/Debug/PinyinC.dll
+/home/b83c/Pinyin/PinyinConverter(Pinyin4NET)/obj/Debug/PinyinC.pdb

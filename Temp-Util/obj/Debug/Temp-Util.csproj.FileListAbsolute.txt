@@ -1,0 +1,17 @@
+D:/Coding/Pinyin/Temp-Util/obj/Debug/Temp_Util.Form1.resources
+D:/Coding/Pinyin/Temp-Util/obj/Debug/Temp_Util.Properties.Resources.resources
+D:/Coding/Pinyin/Temp-Util/obj/Debug/Temp-Util.csproj.GenerateResource.Cache
+D:/Coding/Pinyin/Temp-Util/bin/Debug/Temp-Util.exe.config
+D:/Coding/Pinyin/Temp-Util/bin/Debug/Temp-Util.exe
+D:/Coding/Pinyin/Temp-Util/bin/Debug/Temp-Util.pdb
+D:/Coding/Pinyin/Temp-Util/bin/Debug/PinyinC.dll
+D:/Coding/Pinyin/Temp-Util/bin/Debug/Xceed.Document.NET.dll
+D:/Coding/Pinyin/Temp-Util/bin/Debug/Xceed.Words.NET.dll
+D:/Coding/Pinyin/Temp-Util/bin/Debug/PinyinC.pdb
+D:/Coding/Pinyin/Temp-Util/obj/Debug/Temp-Util.csprojAssemblyReference.cache
+D:/Coding/Pinyin/Temp-Util/obj/Debug/Temp-Util.csproj.CoreCompileInputs.cache
+D:/Coding/Pinyin/Temp-Util/obj/Debug/Temp-Util.csproj.CopyComplete
+D:/Coding/Pinyin/Temp-Util/obj/Debug/Temp-Util.exe
+D:/Coding/Pinyin/Temp-Util/obj/Debug/Temp-Util.pdb
+/home/b83c/Pinyin/Temp-Util/obj/Debug/Temp-Util.exe
+/home/b83c/Pinyin/Temp-Util/obj/Debug/Temp-Util.pdb

@@ -1,0 +1,6 @@
+D:\Coding\Pinyin\bin\x86\Release\PinyinC.dll
+D:\Coding\Pinyin\bin\x86\Release\PinyinC.pdb
+D:\Coding\Pinyin\PinyinConverter(Pinyin4NET)\obj\Release\PinyinConverter(Pinyin4NET).csproj.CoreCompileInputs.cache
+D:\Coding\Pinyin\PinyinConverter(Pinyin4NET)\obj\Release\PinyinC.dll
+D:\Coding\Pinyin\PinyinConverter(Pinyin4NET)\obj\Release\PinyinC.pdb
+D:\Coding\Pinyin\PinyinConverter(Pinyin4NET)\obj\Release\PinyinConverter(Pinyin4NET).csprojAssemblyReference.cache
